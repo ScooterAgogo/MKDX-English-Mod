@@ -1,3 +1,6 @@
+I apologize if this is not the way to ask/communicate. I have searched and could not find another method.  
+Will this program to convert a commercial Namco Mario Kart arcade game, work for the GP and GP2 versions, along with the GPDX version?
+
 # MKDX-English-Mod
 
 This mod is an unofficial fan translation for Mario Kart Arcade GP DX (from Japanese to English).  
